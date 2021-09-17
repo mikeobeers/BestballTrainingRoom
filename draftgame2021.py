@@ -1062,5 +1062,5 @@ def main(sitetemp):
     DraftGame(sitetemp = sitetemp).run()
 
 
-#if __name__ == '__main__':
-main(sitetemp = "BB10 12 Team")
+if __name__ == '__main__':
+    main(sitetemp = "BB10 12 Team")
